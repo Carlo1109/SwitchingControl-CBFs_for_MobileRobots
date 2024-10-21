@@ -1,4 +1,4 @@
-Ideation and design of a controller to ensure trajectory tracking for mobile robots with safety constraints using control logic based on Switching Programming utilizing Control Barrier Functions.
+Ideation and design of a controller to ensure trajectory tracking for mobile robots with safety constraints using control logic based on Switching Programming utilizing Control Barrier Functions. Also a controller based on the Quadratic programming is implemented.
 
 The repository is organized in the following way:
 - Video : contains the video of the animation;
